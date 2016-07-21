@@ -6,4 +6,6 @@ Application configuration files are located inside ```application/settings``` wi
 - **android.json** extends _base.json_ and overrides settings for android
 - **ios.json** extends _base.json_ and overrides settings for ios
 
-## Develo
+## Development VS Production
+
+Settings directory contains 2 subdirectories _development_ and _production_ for development and production environments respectively.
