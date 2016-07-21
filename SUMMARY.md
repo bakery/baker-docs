@@ -11,7 +11,7 @@
 * [Application settings](settings/README.md)
     * Development settings
     * Production settings
-* Scaffolding
+* [Scaffolding](scaffolding/README.md)
     * Navigation
     * Components
     * Containers
