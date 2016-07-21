@@ -33,3 +33,16 @@ The root of your project should be looking smth like this
 ├── store.js                 <-- Redux store configuration
 └── tests.js                 <-- Test configuration
 ```
+
+## server/src
+
+```
+├── graphql                 
+│   ├── index.js            <-- GraphQL middleware 
+│   └── schema.js           <-- GraphQL schema
+├── index.js                <-- Application server entry point
+├── models                  <-- Parse models
+│   └── Example.js
+└── parse-server           
+    └── index.js            <-- Parse Server entry point + Parse Dashboard setup
+``` 
