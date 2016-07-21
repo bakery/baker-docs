@@ -8,7 +8,7 @@
     * Running app on emulator
     * Running server
     * Connecting app to server
-* [Application settings](settings/README.md)
+* [Configuration](configuration/README.md)
     * Development settings
     * Production settings
 * [Scaffolding](scaffolding/README.md)
@@ -18,3 +18,4 @@
     * Models
     * Sagas
 * [Testing](testing/README.md)
+* [Deploy]
