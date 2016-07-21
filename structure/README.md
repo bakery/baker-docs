@@ -28,7 +28,7 @@ The root of your project should be looking smth like this
 ├── reducers.js              <-- main reducer module
 ├── sagas                    <-- all sagas go into this directory
 │ └── index.js               <-- main saga module exposing all registered sagas
-├── settings.js
+├── settings.js              <-- js module for app/settings directory   
 ├── setup.js
 ├── store.js
 └── tests.js
