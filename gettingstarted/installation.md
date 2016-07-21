@@ -9,8 +9,9 @@ git clone https://github.com/thebakeryio/baker.git NameOfYourApplication
 cd NameOfYourApplication && npm install && npm run setup  
 ```
 
-This is will install required dependencies and launch app generator that will scaffold the whole application. You will be asked to provide application name and indicate if you want application server set up and cofigured (recommended).
+This is will install required dependencies and launch app generator that will scaffold the whole application. You will be asked to provide application name and indicate if you want application server set up and cofigured \(recommended\).
 
-**Please note:** It might take a bit of time to install all the dependencies and get your project ready. To make the process less tedious we suggest a cup of tea/coffee accompanied by a fresh croissant.
+**Please note:** It might take a bit of time to install all the dependencies and get your project ready. To make the process less tedious we suggest a cup of tea\/coffee accompanied by a fresh croissant.
 
-Once
+Once the set up is complete, you can jump to the next section to learn about running your brand new app on the emulator. For more information regarding directory structure, please refer to Application Structure [XX: Link to Application Structure chapter] section.
+
