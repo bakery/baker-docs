@@ -1,3 +1,3 @@
-# My Awesome Book
+# Baker
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Baker is a boilerplate and scaffolding tool for building cross platform mobile applications using React Native and Parse Server.
