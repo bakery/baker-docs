@@ -4,7 +4,7 @@
 * [Getting started](gettingstarted/README.md)
     * [Installation](gettingstarted/installation.md)
     * [Running app on emulator](gettingstarted/running-app-on-emulator.md)
-    * Running server
+    * [Running server](gettingstarted/running-server.md)
     * Connecting app to server
 * [Project Structure](structure/README.md)
 * [Configuration](configuration/README.md)
