@@ -13,4 +13,4 @@
 - Easy deployments with
  - Fastlane
  - Heroku
-- Fully hackable internals with
+- Fully hackable internals with Yeoman based generators
