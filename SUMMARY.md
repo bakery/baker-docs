@@ -13,7 +13,7 @@
     * [Components](scaffolding/components.md)
     * [Containers](scaffolding/containers.md)
     * [Models](scaffolding/models.md)
-    * Sagas
+    * [Sagas](scaffolding/sagas.md)
 * [Testing](testing/README.md)
 * [Deployment](deployment/README.md)
 * [Extending Baker](extending/README.md)
