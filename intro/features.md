@@ -9,4 +9,7 @@
 - Application server with
  - Parse Server and Dashboard
  - GraphQL for Parse
- - [!] Tests using Mocha 
+ - [!] Tests using Mocha
+- Easy deployments with
+ - Fastlane
+ - Heroku 
