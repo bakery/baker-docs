@@ -8,6 +8,7 @@
     * Running app on emulator
     * Running server
     * Connecting app to server
+* [Project Structure](structure/README.md)
 * [Configuration](configuration/README.md)
     * Development settings
     * Production settings
