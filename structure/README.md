@@ -29,7 +29,7 @@ The root of your project should be looking smth like this
 ├── sagas                    <-- all sagas go into this directory
 │ └── index.js               <-- main saga module exposing all registered sagas
 ├── settings.js              <-- js module for app/settings directory   
-├── setup.js
-├── store.js
+├── setup.js                 <-- application setup happens here
+├── store.js                 <-- Redux store is configured here
 └── tests.js
 ```
