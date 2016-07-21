@@ -20,14 +20,14 @@ The root of your project should be looking smth like this
 ## app/src directory overview
 
 ```
-├── components        <-- all application components/containers go here   
-│ └── App             <-- every component/container gets its own directory
-│ ├── index.js
-│ ├── index.test.js
-│ └── styles.js
-├── reducers.js
-├── sagas
-│ └── index.js
+├── components               <-- all application components/containers go here   
+│ └── App                    <-- every component/container gets its own directory
+│     ├── index.js
+│     ├── index.test.js
+│     └── styles.js
+├── reducers.js              <-- main reducer module
+├── sagas                    <-- all sagas go into this directory
+│ └── index.js               <-- main saga module exposing all registered sagas
 ├── settings.js
 ├── setup.js
 ├── store.js
