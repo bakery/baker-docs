@@ -19,3 +19,4 @@
     * Sagas
 * [Testing](testing/README.md)
 * [Deployment](deployment/README.md)
+* [Extending Baker](extending/README.md)
