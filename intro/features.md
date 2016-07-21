@@ -3,7 +3,7 @@
 - Fully bootstrapped React Native application featuring 
  - Redux
  - Performant selectors using Reselect
- - Component tests using Enzyme
+ - Component tests using Mocha + Enzyme
  - Redux Sagas for data fetching and various async tasks
  - Parse SDK + GraphQL client for Parse Server
 - Application server with
