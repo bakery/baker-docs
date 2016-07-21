@@ -9,11 +9,11 @@ The root of your project should be looking smth like this
 ```
 ├── LICENSE
 ├── README.MD
-├── app                             **React Native application lives here**   
-├── baker                           **Baker internals** 
+├── app                             <-- React Native application
+├── baker                           <-- Baker internals
 ├── node_modules
 ├── package.json
-├── server                          **Application server**
+├── server                          <-- Application server
 └── settings -> app/settings        **Share app settings with the server** 
 ```
 
