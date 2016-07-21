@@ -14,5 +14,5 @@ The root of your project should be looking smth like this
 ├── node_modules
 ├── package.json
 ├── server                          **Application server**
-└── settings -> app/settings
+└── settings -> app/settings        **Share app settings with the server** 
 ```
