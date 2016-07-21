@@ -15,3 +15,9 @@ In watch mode, the server will automatically restart when you change any javascr
 ```bash
 cd server && npm run server-watch
 ```
+
+## Debugging server
+
+```
+cd server && npm run server-watch
+```
