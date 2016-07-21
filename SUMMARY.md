@@ -13,10 +13,11 @@
     * Production settings
 * [Scaffolding](scaffolding/README.md)
     * [Navigation](scaffolding/navigation.md)
-    * Components
+    * [Components](scaffolding/components.md)
     * Containers
     * Models
     * Sagas
 * [Testing](testing/README.md)
 * [Deployment](deployment/README.md)
 * [Extending Baker](extending/README.md)
+
