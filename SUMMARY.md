@@ -5,4 +5,16 @@
     * [Features](intro/features.md)
 * [Getting started](gettingstarted/README.md)
     * [Installation](gettingstarted/installation.md)
+    * Running app on emulator
+    * Running server
+    * Connecting app to server
+* Application settings
+    * Development settings
+    * Production settings
+* Scaffolding
+    * Navigation
+    * Components
+    * Containers
+    * Models
+    * Sagas
 
