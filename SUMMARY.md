@@ -8,8 +8,6 @@
     * Connecting app to server
 * [Project Structure](structure/README.md)
 * [Configuration](configuration/README.md)
-    * Development settings
-    * Production settings
 * [Scaffolding](scaffolding/README.md)
     * [Navigation](scaffolding/navigation.md)
     * [Components](scaffolding/components.md)
