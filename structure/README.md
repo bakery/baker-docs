@@ -31,5 +31,5 @@ The root of your project should be looking smth like this
 ├── settings.js              <-- js module for app/settings directory   
 ├── setup.js                 <-- application setup
 ├── store.js                 <-- Redux store configuration
-└── tests.js
+└── tests.js                 <-- Test configuration
 ```
