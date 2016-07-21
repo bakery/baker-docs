@@ -16,3 +16,5 @@ The root of your project should be looking smth like this
 ├── server                          **Application server**
 └── settings -> app/settings        **Share app settings with the server** 
 ```
+
+## app directory overview
