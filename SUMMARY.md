@@ -18,4 +18,4 @@
     * Models
     * Sagas
 * [Testing](testing/README.md)
-* [Deploy]
+* [Deployment](deployment/README.md)
