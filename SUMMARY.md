@@ -12,7 +12,7 @@
     * Development settings
     * Production settings
 * [Scaffolding](scaffolding/README.md)
-    * Navigation
+    * [Navigation](scaffolding/navigation.md)
     * Components
     * Containers
     * Models
