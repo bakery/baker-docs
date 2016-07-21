@@ -13,6 +13,6 @@ The root of your project should be looking smth like this
 ├── baker                           **Baker internals** 
 ├── node_modules
 ├── package.json
-├── server
+├── server                          **Application server**
 └── settings -> app/settings
 ```
