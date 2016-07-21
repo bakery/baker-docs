@@ -11,7 +11,7 @@
 * [Scaffolding](scaffolding/README.md)
     * [Navigation](scaffolding/navigation.md)
     * [Components](scaffolding/components.md)
-    * Containers
+    * [Containers](scaffolding/containers.md)
     * Models
     * Sagas
 * [Testing](testing/README.md)
