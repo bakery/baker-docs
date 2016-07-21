@@ -22,3 +22,7 @@ Baker is a boilerplate and scaffolding tool for building cross platform mobile a
  - Fastlane for your mobile app
  - Heroku for the application server
 - Fully hackable internals with Yeoman based generators
+
+## Prior art
+
+List available RN boilerplates and explain how Baker is different and why
