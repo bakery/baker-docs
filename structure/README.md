@@ -6,7 +6,7 @@ Once you've done installing dependencies and running setup as described in the [
 
 The root of your project should be looking smth like this
 
-```markdown
+```
 ├── LICENSE
 ├── README.MD
 ├── app                             **React Native application lives here**   
@@ -18,3 +18,18 @@ The root of your project should be looking smth like this
 ```
 
 ## app/src directory overview
+
+```
+├── components
+│ └── App
+│ ├── index.js
+│ ├── index.test.js
+│ └── styles.js
+├── reducers.js
+├── sagas
+│ └── index.js
+├── settings.js
+├── setup.js
+├── store.js
+└── tests.js
+```
