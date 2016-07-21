@@ -1,4 +1,5 @@
 # What is included
 
-- Full bootstrapped React Native application 
- - ajsdkflj
+- Fully bootstrapped React Native application featuring 
+ - Redux
+ - 
