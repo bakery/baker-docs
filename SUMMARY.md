@@ -1,6 +1,4 @@
-# Summary
-
-## Hello
+# Summary 
 
 * [Welcome](intro/README.md)
     * [Features](intro/features.md)
