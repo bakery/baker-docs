@@ -9,8 +9,8 @@ The root of your project should be looking smth like this
 ```markdown
 ├── LICENSE
 ├── README.MD
-├── app  **React Native application lives here**   
-├── baker
+├── app                             **React Native application lives here**   
+├── baker                           **Baker internals** 
 ├── node_modules
 ├── package.json
 ├── server
