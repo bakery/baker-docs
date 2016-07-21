@@ -20,8 +20,8 @@ The root of your project should be looking smth like this
 ## app/src directory overview
 
 ```
-├── components
-│ └── App
+├── components        <-- all application components/containers go here   
+│ └── App             <-- every component/container gets its own directory
 │ ├── index.js
 │ ├── index.test.js
 │ └── styles.js
