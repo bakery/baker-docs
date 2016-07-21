@@ -10,6 +10,8 @@
  - Parse Server and Dashboard
  - GraphQL for Parse
  - [!] Tests using Mocha
+- Code generators for
+  -
 - Easy deployments with
  - Fastlane
  - Heroku
