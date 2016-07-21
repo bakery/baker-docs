@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Getting started](gettingstarted/README.md)
     * [Installation](gettingstarted/installation.md)
-    * Running app on emulator
+    * [Running app on emulator](gettingstarted/running-app-on-emulator.md)
     * Running server
     * Connecting app to server
 * [Project Structure](structure/README.md)

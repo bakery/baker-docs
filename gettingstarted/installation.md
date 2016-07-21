@@ -1,8 +1,8 @@
-# Before you begin
+# Installation 
 
 You must have your system ready for React Native. This generally means going through [Getting started section](https://facebook.github.io/react-native/docs/getting-started.html#content) section of RN's website.
 
-# Creating your project using Baker
+## Creating your project using Baker
 
 ```bash
 git clone https://github.com/thebakeryio/baker.git NameOfYourApplication
