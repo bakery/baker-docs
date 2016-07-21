@@ -2,7 +2,7 @@
 
 ## Hello
 * [Introduction](intro/README.md)
-    * [Features](features.md)
+    * [Features](intro/features.md)
 * [First Chapter](chapter1.md)
 
 ## Introd
