@@ -5,4 +5,5 @@ Baker provides shortcuts for running application on mobile emulators (Android an
 ## Running on iOS emulator
 
 ```bash
+cd app && npm run ios
 ``` 
