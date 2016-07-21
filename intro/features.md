@@ -15,6 +15,6 @@
  - Sagas
  - Data models
 - Easy deployments with
- - Fastlane
- - Heroku
+ - Fastlane for your mobile app
+ - Heroku for the application server
 - Fully hackable internals with Yeoman based generators
