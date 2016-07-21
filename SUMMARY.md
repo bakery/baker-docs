@@ -8,7 +8,7 @@
     * Running app on emulator
     * Running server
     * Connecting app to server
-* Application settings
+* [Application settings](settings/README.md)
     * Development settings
     * Production settings
 * Scaffolding
