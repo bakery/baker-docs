@@ -12,4 +12,5 @@
  - [!] Tests using Mocha
 - Easy deployments with
  - Fastlane
- - Heroku 
+ - Heroku
+- Fully hackable internals with
