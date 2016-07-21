@@ -12,7 +12,8 @@
  - [!] Tests using Mocha
 - Code generators for
  - Components and Containers
- - 
+ - Sagas
+ - Data models
 - Easy deployments with
  - Fastlane
  - Heroku
