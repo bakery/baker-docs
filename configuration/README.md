@@ -5,3 +5,5 @@ Application configuration files are located inside ```application/settings``` wi
 - **base.json** is used by application server
 - **android.json** extends _base.json_ and overrides settings for android
 - **ios.json** extends _base.json_ and overrides settings for ios
+
+## Develo
