@@ -4,3 +4,15 @@ Once you've done installing dependencies and running setup as described in the [
 
 ## High level overview
 
+The root of your project should be looking smth like this
+
+```markdown
+├── LICENSE
+├── README.MD
+├── app  **React Native application lives here**   
+├── baker
+├── node_modules
+├── package.json
+├── server
+└── settings -> app/settings
+```
