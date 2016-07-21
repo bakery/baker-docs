@@ -1,3 +1,3 @@
 # Baker
 
-Tell people what baker is and provide a short intro to this guide + a super fast quickstart (readme style) for peeps who want to get going right away
+Tell people what baker is and provide a short intro to this guide + a super fast quick start(readme style) for peeps who want to get going right away
