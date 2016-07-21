@@ -11,7 +11,8 @@
  - GraphQL for Parse
  - [!] Tests using Mocha
 - Code generators for
-  -
+ - Components and Containers
+ - 
 - Easy deployments with
  - Fastlane
  - Heroku
