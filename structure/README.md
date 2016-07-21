@@ -17,4 +17,4 @@ The root of your project should be looking smth like this
 └── settings -> app/settings        **Share app settings with the server** 
 ```
 
-## app directory overview
+## app/src directory overview
