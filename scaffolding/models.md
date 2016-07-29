@@ -19,3 +19,13 @@ Baker will ask you to provide a name for the new model
 ```
 ? What should your model be called?
 ```
+
+## Models directory overview
+
+Models are added to **server/src/models** directory:
+
+```
+├── models
+    ├── Example.js
+    └── Todo.js
+```
