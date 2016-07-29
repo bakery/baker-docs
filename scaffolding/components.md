@@ -25,5 +25,5 @@ Baker will ask you a few questions to customize your new component
 ? Do you need separate versions of this component for iOS and Android? <-- platform specific code
 ```
 
-*C
+C
 
