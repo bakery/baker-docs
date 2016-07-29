@@ -6,4 +6,10 @@ Navigation modules are a special case of containers. Navigation is probably one 
 
 ```
 npm run generate
+? Choose the generator to use
+  Component
+  Container
+❯ Navigation
+  Saga
+  Model
 ```
