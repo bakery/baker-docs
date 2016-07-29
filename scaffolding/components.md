@@ -1,2 +1,5 @@
 # Scaffolding components
 
+Pure Components (a.k.a. Presentational Components) do not have direct access to the app data - the data comes from their parent component (using props).
+
+**Note:** We do NOT separate components and containers into different sub-directories. Both components and containers reside within /components directory. This is because the nature of your component might change as you are building your app and having a single directory for containers and pure components will save you from migrating import paths.
