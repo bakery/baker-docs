@@ -59,11 +59,11 @@ const { View } = ReactNative;
 
 class App extends Component {
  render() {
- return (
-   <View style={styles.container}>
-     <Example />
-   </View>
- );
+   return (
+     <View style={styles.container}>
+       <Example />
+     </View>
+   );
  }
 }
 
