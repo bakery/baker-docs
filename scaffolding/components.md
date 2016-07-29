@@ -10,10 +10,10 @@ Pure Components \(a.k.a. Presentational Components\) do not have direct access t
 npm run generate
 ? Choose the generator to use (Use arrow keys)
 ❯ Component
- Container
- Navigation
- Saga
- Model
+  Container
+  Navigation
+  Saga
+  Model
 ```
 
 Baker will ask you a few questions to customize your new component
