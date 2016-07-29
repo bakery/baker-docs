@@ -6,3 +6,5 @@ Baker includes test setups for the following
 - Application server
 - CI tests for both RN app and app server 
 - Baker internals
+
+## Testing your ReactNative application
