@@ -38,7 +38,7 @@ After successfully running container generator you should see your new container
 ```
 Example
  ├── actions.js         <-- Redux actions 
- ├── actions.test.js    <-- 
+ ├── actions.test.js    <-- test suite for actions module
  ├── constants.js       <-- constants you can use in actions and reducers
  ├── index.js
  ├── index.test.js
