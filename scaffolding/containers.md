@@ -42,7 +42,7 @@ Example
  ├── constants.js       <-- constants you can use in actions and reducers
  ├── index.js           <-- main module for the React component this container is based on
  ├── index.test.js      <-- test suites for the component
- ├── reducer.js
- ├── reducer.test.js
+ ├── reducer.js         <-- reducer
+ ├── reducer.test.js    <-- reducer test suite
  └── styles.js
 ```
