@@ -8,3 +8,5 @@ Baker includes test setups for the following
 - Baker internals
 
 ## Testing your ReactNative application
+
+RN tests use [Enzyme](https://github.com/airbnb/enzyme) and [React Native Mock](https://github.com/lelandrichardson/react-native-mock)
