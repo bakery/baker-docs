@@ -5,7 +5,7 @@ Baker includes test setups for the following
 - React Native application
 - Application server
 - CI tests for both RN app and app server 
-- Baker internals
+- Baker
 
 ## Testing your React Native application
 
@@ -28,3 +28,17 @@ npm run test:server
 ```
 
 Server tests reside in **server/tests** directory
+
+## Testing Baker
+
+To run tests against Baker's internals (generators mostly)
+
+```
+npm run test:baker
+```
+
+## CI tests
+
+There are a few useful scripts that get run by Travis grouped under **ci** command in package.json. These include:
+
+- test Baker    
