@@ -29,3 +29,12 @@ Baker will ask you a few questions to customize your new component
 \[2\] If you want to customize how you component works on different platforms, you can have Baker generate separate .ios and .android versions of the component
 
 ## Component directory overview
+
+After successfully running component generator you should see your new component added to app/src/components
+
+```
+TextBox
+ ├── index.js         <-- main component module containing React component definition
+ ├── index.test.js    <-- component test suite
+ └── styles.js        <-- stylesheet for your component
+```  
