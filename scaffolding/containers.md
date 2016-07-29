@@ -33,4 +33,5 @@ Baker will ask you a few questions to customize your new container
 
 ## Conainer directory overview
 
-After successfully running container generator you should see your new container added to app/src/components. While containers share quite a lot of things in common with components, they also come with a few extra pieces
+After successfully running container generator you should see your new container added to app/src/components. While containers share quite a lot of things in common with components, they also come with a few extra pieces:
+
