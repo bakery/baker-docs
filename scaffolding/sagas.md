@@ -12,3 +12,12 @@ npm run generate
   Model
 ```
 
+There are 2 parameters to configure the generator
+
+```
+? What should your saga be called? <-- name of the saga
+? Which boilerplate do you want to use? <-- saga template [1]
+```
+
+[1] XX: update once with graphql saga stuff
+
