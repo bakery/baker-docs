@@ -28,3 +28,4 @@ Baker will ask you a few questions to customize your new component
 
 \[2\] If you want to customize how you component works on different platforms, you can have Baker generate separate .ios and .android versions of the component
 
+## Component directory overview
