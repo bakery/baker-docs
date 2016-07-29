@@ -10,5 +10,11 @@ Container generator is based on [Component generator](/scaffolding/components.md
 
 ```
 npm run generate
+? Choose the generator to use
+  Component
+❯ Container
+  Navigation
+  Saga
+  Model
 ```
 
