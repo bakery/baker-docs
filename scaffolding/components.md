@@ -19,3 +19,9 @@ npm run generate
 
 Baker will ask you a few questions to customize your new component
 
+```markdown
+? What should your component be called?  <-- type a name for your component           
+? Which boilerplate do you want to use? <-- select one of the available boilerplate (defaults to Vanila) 
+? Do you need separate versions of this component for iOS and Android? <-- platform specific code
+```
+
