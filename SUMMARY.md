@@ -14,7 +14,7 @@
     * [Containers](scaffolding/containers.md)
     * [Models](scaffolding/models.md)
     * [Sagas](scaffolding/sagas.md)
-    * Component Boilerplates
+    * [Component Boilerplates](scaffolding/component-boilerplates.md)
 * [Testing](testing/README.md)
 * [Deployment](deployment/README.md)
 * [Extending Baker](extending/README.md)
