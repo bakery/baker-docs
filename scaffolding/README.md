@@ -8,6 +8,12 @@ Scaffolding is a big part of Baker. Besides initial application bootstrapping, y
 * [Models](/scaffolding/models.md)
 * [Sagas](/scaffolding/sagas.md)
 
+To access generator interface, run the following command
+
+```
+npm run generate
+``` 
+
 ## Boilerplates
 
 Component generators come with an additional level of customization through boilerplates. Refer to Component Boilerplates section for more information.
