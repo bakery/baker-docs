@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Getting started](gettingstarted/README.md)
     * [Installation](gettingstarted/installation.md)
-    * [Running app on emulator](gettingstarted/running-app-on-emulator.md)
+    * [Running app](gettingstarted/running-app-on-emulator.md)
     * [Running server](gettingstarted/running-server.md)
     * [Connecting app to server](gettingstarted/connecting-app-to-server.md)
 * [Project Structure](structure/README.md)
@@ -14,6 +14,7 @@
     * [Containers](scaffolding/containers.md)
     * [Models](scaffolding/models.md)
     * [Sagas](scaffolding/sagas.md)
+    * Component Boilerplates
 * [Testing](testing/README.md)
 * [Deployment](deployment/README.md)
 * [Extending Baker](extending/README.md)
