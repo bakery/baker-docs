@@ -3,3 +3,13 @@
 Models are server side components based on **Parse.Object** exposing GraphQL schema.  
 
 ## Running model generator
+
+```
+npm run generate
+? Choose the generator to use (Use arrow keys)
+  Component
+  Container
+  Navigation
+  Saga
+❯ Model
+```
