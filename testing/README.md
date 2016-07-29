@@ -1,5 +1,8 @@
-# Various testing scenarios
+# Testing
 
-- test RN app
-- test server
-- test baker internals
+Baker includes test setups for the following 
+
+- internals 
+- React Native application
+- application server
+- CI tests for
