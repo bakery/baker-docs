@@ -35,3 +35,14 @@ Baker will ask you a few questions to customize your new container
 
 After successfully running container generator you should see your new container added to app/src/components. While containers share quite a lot of things in common with components, they also come with a few extra pieces:
 
+```
+Example
+ ├── actions.js         <-- Redux actions 
+ ├── actions.test.js    <-- 
+ ├── constants.js       <-- constants you can use in actions and reducers
+ ├── index.js
+ ├── index.test.js
+ ├── reducer.js
+ ├── reducer.test.js
+ └── styles.js
+```
