@@ -42,4 +42,22 @@ TextBox
 At this point you can jump straight into **index.js** module and start customizing your component to make it useful. You can then plug your new component into the main application screen (**app/src/components/App/index.js**) to test it out:
 
 ```javascript
+import ReactNative from 'react-native';
+import React, { Component } from 'react';
+import styles from './styles';
+import TextBox from '../TextBox';
+
+const { View } = ReactNative;
+
+class App extends Component { 
+  render() { 
+    return (
+      <View style={styles.container}>
+        <TextBox />
+      </View>
+    ); 
+  }
+}
+
+export default App;
 ``` 
