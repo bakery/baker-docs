@@ -21,6 +21,8 @@ npm run server:watch
 
 ## Debugging server
 
+When running in debug mode, you can use [Node Inspector](https://github.com/node-inspector/node-inspector) to debug server side code
+
 ```
-cd server && npm run server-watch
+npm run server:debug
 ```
