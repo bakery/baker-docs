@@ -19,4 +19,4 @@ To test your RN application, use the following command
 npm run test:app
 ```
 
-##  
+## Testing server code
