@@ -18,3 +18,5 @@ npm run generate
   Model
 ```
 
+Baker will ask you a few questions to customize your new container
+
