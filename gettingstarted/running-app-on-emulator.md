@@ -5,11 +5,19 @@ Baker provides shortcuts for running application on mobile emulators (Android an
 ## Running on iOS emulator
 
 ```bash
-cd app && npm run ios
+npm run ios
 ``` 
 
 ## Running on Android emulator
 
 ```bash
-cd app && npm run android
+npm run android
+```
+
+## Using react-native-cli
+
+Remember that you can always fallback to using **react-native-cli** directly
+
+```
+cd app && react-native run-io
 ```
