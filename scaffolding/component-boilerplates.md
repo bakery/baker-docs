@@ -1,3 +1,3 @@
-# Component
+# Component boilerplates
 
 TODO
