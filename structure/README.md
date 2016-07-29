@@ -2,7 +2,7 @@
 
 Once you're done installing dependencies and running setup as described in the [Installation section](/gettingstarted/installation.md), you will end up with a whole lot of files.
 
-Let's go over the project structure to make sure you know where things are.
+Let's go over the project structure to make sure you know where things are. A lot of this stuff is auto-managed by Baker for you so you do not really have to worry about it much/at all.
 
 ## High level overview
 
@@ -13,7 +13,6 @@ The root of your project should be looking smth like this
 ├── README.MD
 ├── app                             <-- React Native application
 ├── baker                           <-- Baker internals
-├── node_modules
 ├── package.json
 ├── server                          <-- Application server
 └── settings -> app/settings        <-- Share app settings with the server
