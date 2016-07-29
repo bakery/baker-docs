@@ -1,6 +1,6 @@
 # Deploying your app
 
-- push with Fastlane
+Baker supports 2 types of deployments: mobile app deployment through Fastlane and application server deployment using Heroku 
 
 ## Deploying application server to Heroku
 
