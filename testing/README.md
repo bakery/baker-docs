@@ -26,3 +26,5 @@ To run tests against your application server code, use the following command
 ```
 npm run test:server
 ```
+
+Server tests reside in **server/tests** directory
