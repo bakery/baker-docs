@@ -30,3 +30,5 @@ Baker will ask you a few questions to customize your new container
 \[1\] Component boilerplates include extra code that can be used to pre-populate your components. Refer to [Component Boilerplates](/scaffolding/component-boilerplates.md) section for more information
 
 \[2\] If you want to customize how you component works on different platforms, you can have Baker generate separate .ios and .android versions of the component
+
+## Conainer directory overview
