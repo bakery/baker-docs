@@ -5,7 +5,7 @@ Baker's application server is based on Express with Parse Server, Parse Dashboar
 ## Running server in standard mode
 
 ```bash
-cd server && npm run server
+npm run server
 ```
 
 ## Running server in watch mode
