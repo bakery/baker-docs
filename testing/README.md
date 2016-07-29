@@ -41,4 +41,8 @@ npm run test:baker
 
 There are a few useful scripts that get run by Travis grouped under **ci** command in package.json. These include:
 
-- test Baker    
+- test Baker
+- test RN app
+- test application server
+- try starting an app server to confirm that it works
+- try building RN app for both iOS and Android to confirm it builds correctly    
