@@ -16,7 +16,7 @@ npm run android
 
 ## Using react-native-cli
 
-Remember that you can always fallback to using **react-native-cli** directly
+Remember that you can always fallback to using **react-native-cli** directly. For example,
 
 ```
 cd app && react-native run-ios
