@@ -21,3 +21,5 @@ There are a few parameters to configure navigation element
 ? Which boilerplate do you want to use? <-- navigation type to use [1]
 ? Do you need separate versions of this component for iOS and Android? <-- platform specific customization
 ```
+
+[1] Baker currently supports 2 navigation templates: Cards and Tabs.
