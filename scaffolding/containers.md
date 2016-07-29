@@ -20,3 +20,13 @@ npm run generate
 
 Baker will ask you a few questions to customize your new container
 
+```
+? What should your container be called? <-- type a name for your component
+? Do you want a reducer + actions + constants generated? <-- create a new reducer for this container?
+? Which boilerplate do you want to use? [1]
+? Do you need separate versions of this component for iOS and Android? [2]
+```
+
+\[1\] Component boilerplates include extra code that can be used to pre-populate your components. Refer to [Component Boilerplates](/scaffolding/component-boilerplates.md) section for more information
+
+\[2\] If you want to customize how you component works on different platforms, you can have Baker generate separate .ios and .android versions of the component
