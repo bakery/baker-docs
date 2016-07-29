@@ -44,5 +44,5 @@ Example
  ├── index.test.js      <-- test suites for the component
  ├── reducer.js         <-- reducer
  ├── reducer.test.js    <-- reducer test suite
- └── styles.js          <-- container stylesheets
+ └── styles.js          <-- container stylesheet
 ```
