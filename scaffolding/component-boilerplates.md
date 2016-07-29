@@ -17,3 +17,7 @@ Based on [react-native-swiper](https://github.com/leecade/react-native-swiper)
 ## Camera
 
 Based on [react-native-camera](https://github.com/lwansbrough/react-native-camera)
+
+# Adding more boilerplates
+
+You can easily add component boilerplates to Baker. Take a look [here](https://github.com/thebakeryio/baker/tree/master/baker/generators/component/templates/boilerplates) to get an idea how to extend available boilerplates.
