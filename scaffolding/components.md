@@ -38,3 +38,5 @@ TextBox
  ├── index.test.js    <-- component test suite
  └── styles.js        <-- stylesheet for your component
 ```  
+
+At this point you can jump straight into **index.js** module and start customizing your component to make it useful
