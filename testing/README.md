@@ -13,4 +13,8 @@ RN tests use [Mocha](https://github.com/mochajs/mocha), [Enzyme](https://github.
 
 Baker will test anything within **app/src** directory (and its subdirectories) that looks like ***.test.js**. Generally speaking, you will not need to create any test suites manually since scaffolding feature takes care of creating tests for your components, actions and reducers.
 
-To 
+To test your RN application, use the following command
+
+```
+npm run test:app
+``` 
