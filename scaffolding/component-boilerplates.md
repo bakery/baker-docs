@@ -12,3 +12,8 @@ Based on [react-native-parallax-view](https://github.com/lelandrichardson/react-
 
 Based on [react-native-swiper](https://github.com/leecade/react-native-swiper)
 
+![](https://camo.githubusercontent.com/2bb70cd3dc3b94523811ab1536cc5ad30932d2be/687474703a2f2f692e696d6775722e636f6d2f7a7273617a41472e6769662532303d33303078)
+
+## Camera
+
+Based on [react-native-camera](https://github.com/lwansbrough/react-native-camera)
