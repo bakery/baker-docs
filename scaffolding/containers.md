@@ -47,7 +47,7 @@ Example
  └── styles.js          <-- container stylesheet
 ```
 
-At this point you can jump straight into **index.js** module and start customizing your container to make it useful. You can then plug your new component into the main application screen (**app/src/components/App/index.js**) to test it out:
+At this point you can jump straight into **index.js** module and start customizing your container to make it useful. You can then plug your new container into the main application screen (**app/src/components/App/index.js**) to test it out:
 
 ```javascript
 import ReactNative from 'react-native';
