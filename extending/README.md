@@ -1,1 +1,1 @@
-# Updating and extending Yeoman generators
+# Extending baker
