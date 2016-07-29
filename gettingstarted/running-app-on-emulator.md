@@ -19,5 +19,5 @@ npm run android
 Remember that you can always fallback to using **react-native-cli** directly
 
 ```
-cd app && react-native run-io
+cd app && react-native run-ios
 ```
