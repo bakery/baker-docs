@@ -13,10 +13,10 @@ npm run server
 
 ## Running server in watch mode
 
-In watch mode, the server will automatically restart when you change any javascript file in the server directory
+In watch mode, the server will automatically restart when you change any javascript file in the server directory - super useful for development
 
 ```bash
-cd server && npm run server-watch
+npm run server:watch
 ```
 
 ## Debugging server
