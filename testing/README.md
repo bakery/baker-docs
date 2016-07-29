@@ -7,7 +7,7 @@ Baker includes test setups for the following
 - CI tests for both RN app and app server 
 - Baker internals
 
-## Testing your ReactNative application
+## Testing your React Native application
 
 RN tests use [Mocha](https://github.com/mochajs/mocha), [Enzyme](https://github.com/airbnb/enzyme) and [React Native Mock](https://github.com/lelandrichardson/react-native-mock). 
 
@@ -17,4 +17,6 @@ To test your RN application, use the following command
 
 ```
 npm run test:app
-``` 
+```
+
+##  
