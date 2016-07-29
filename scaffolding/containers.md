@@ -40,8 +40,8 @@ Example
  ├── actions.js         <-- Redux actions 
  ├── actions.test.js    <-- test suite for actions module
  ├── constants.js       <-- constants you can use in actions and reducers
- ├── index.js
- ├── index.test.js
+ ├── index.js           <-- main module for the React component this container is based on
+ ├── index.test.js      <-- test suites for the component
  ├── reducer.js
  ├── reducer.test.js
  └── styles.js
