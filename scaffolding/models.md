@@ -13,3 +13,9 @@ npm run generate
   Saga
 ❯ Model
 ```
+
+Baker will ask you to provide a name for the new model
+
+```
+? What should your model be called?
+```
