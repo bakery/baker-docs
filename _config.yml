@@ -5,7 +5,7 @@ project_name:         Baker
 title:               'Baker Documentation'
 tagline:             'React Native - Zero to MVP'
 url:                 'https://thebakeryio.github.io/baker'
-baseurl:             'https://thebakeryio.github.io/baker'
+baseurl:             'https://thebakeryio.github.io/baker-docs'
 
 sass:
   style: compressed
