@@ -4,8 +4,8 @@ permalink:           pretty
 project_name:         Baker
 title:               'Baker Documentation'
 tagline:             'React Native - Zero to MVP'
-url:                 'https://thebakeryio.github.io/baker'
-baseurl:             'https://thebakeryio.github.io/baker-docs'
+url:                 'https://bakery.github.io/baker'
+baseurl:             'https://bakery.github.io/baker-docs'
 
 sass:
   style: compressed
@@ -24,7 +24,7 @@ version:             1.0.0
 exclude:             [vendor]
 
 github:
-  repository_url:    https://github.com/thebakeryio/baker
+  repository_url:    https://github.com/bakery/baker
 
 twitter:
   handle:            bakeryhq
