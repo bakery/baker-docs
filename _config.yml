@@ -1,9 +1,9 @@
 permalink:           pretty
 
 # Setup
-project_name:         Baker
-title:               'Baker Documentation'
-tagline:             'React Native - Zero to MVP'
+project_name:        Baker
+title:               Baker
+tagline:             Mobile MVP Toolkit
 url:                 'https://bakery.github.io/baker'
 baseurl:             'https://bakery.github.io/baker-docs'
 
@@ -31,7 +31,7 @@ twitter:
 
 algolia:
   application_id:    'RJLGF63QKK'
-  index_name:        'docs'
+  index_name:        'baker-docs'
   read_only_api_key: 'c9e5cf2be0bd488a1e022c1f746f43c0'
 
 defaults:
