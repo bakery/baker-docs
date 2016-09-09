@@ -21,9 +21,9 @@ npm run generate
 There are a few parameters to configure navigation element
 
 ```
-? What should your container be called? <-- name for the navigation component
-? Which boilerplate do you want to use? <-- navigation type to use [1]
-? Do you need separate versions of this component for iOS and Android? <-- platform specific customization
+? What should your container be called?
+? Which boilerplate do you want to use? [1]
+? Do you need separate versions of this component for iOS and Android?
 ```
 
 [1] Baker currently supports 2 navigation templates: Cards and Tabs.

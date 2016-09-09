@@ -25,8 +25,8 @@ npm run generate
 Baker will ask you a few questions to customize your new container
 
 ```
-? What should your container be called? <-- type a name for your component
-? Do you want a reducer + actions + constants generated? <-- create a new reducer for this container?
+? What should your container be called?
+? Do you want a reducer + actions + constants generated?
 ? Which boilerplate do you want to use? [1]
 ? Do you need separate versions of this component for iOS and Android? [2]
 ```
@@ -43,8 +43,8 @@ After successfully running container generator you should see your new container
 Example
  ├── actions.js         <-- Redux actions 
  ├── actions.test.js    <-- test suite for actions module
- ├── constants.js       <-- constants you can use in actions and reducers
- ├── index.js           <-- main module for the React component this container is based on
+ ├── constants.js       <-- constants for actions and reducers
+ ├── index.js           <-- container defintion
  ├── index.test.js      <-- test suites for the component
  ├── reducer.js         <-- reducer
  ├── reducer.test.js    <-- reducer test suite

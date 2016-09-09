@@ -9,8 +9,8 @@ You must have your system ready for React Native. This generally means going thr
 ## Creating your project using Baker
 
 ```bash
-git clone https://github.com/thebakeryio/baker.git NameOfYourApplication
-cd NameOfYourApplication && npm install && npm run setup  
+git clone https://github.com/thebakeryio/baker.git MyApp
+cd MyApp && npm install && npm run setup  
 ```
 
 This is will install required dependencies and launch app generator that will scaffold the whole application.
