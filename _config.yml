@@ -24,7 +24,7 @@ version:             1.0.0
 exclude:             [vendor]
 
 github:
-  repository_url:    https://github.com/bakery/baker-docs
+  repository_url:    https://github.com/bakery/baker
 
 twitter:
   handle:            bakeryhq
