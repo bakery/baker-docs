@@ -10,6 +10,9 @@ $magenta: #aa759f;
 $brown: #8f5536;
 $white: #ffffff;
 
+/* Sidebar is collapsed when below this width*/
+$collapse-sidebar-min-width : 68em;
+
 /* Selected Theme */
 
 $theme_color: $red;
