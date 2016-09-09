@@ -3,17 +3,75 @@ layout: default
 title: Home
 ---
 
-Baker is an opinionated MVP toolkit that helps you build mobile apps crazy fast. It is based on React Native and Parse Server.
+<h1>Meet the Baker</h1>
+<p>Baker is an opinionated MVP toolkit that helps you build mobile apps crazy fast. It is based on React Native and Parse Server and bundles a whole lot of goodies inside a delicious package that will help you type less and do more. 
+</p>
 
-{% include social_buttons.html %}
 
-<table>
+<table class="logotron">
   <tr>
-    <td>Hello</td>
-    <td>There</td>
-    <td>there</td>
+    <td><img src="{{site.baseurl}}/public/images/react-native.png"></td>
+    <td><img src="{{site.baseurl}}/public/images/parse-server.png"></td>
+    <td><img src="{{site.baseurl}}/public/images/yeoman.png"></td>
+  </tr>
+  <tr>
+    <td><img src="{{site.baseurl}}/public/images/graphql.png"></td>
+    <td><img src="{{site.baseurl}}/public/images/redux.png"></td>
+    <td><img src="{{site.baseurl}}/public/images/mocha.png"></td>
+  </tr>
+  <tr>
+    <td><img src="{{site.baseurl}}/public/images/bitrise.svg"></td>
+    <td><img src="{{site.baseurl}}/public/images/heroku.png"></td>
+    <td><img src="{{site.baseurl}}/public/images/fastlane.png"></td>
   </tr>
 </table>
+
+<h2>Key Features</h2>
+
+<ul>
+  <li>Type less do more</li>
+  <li>All tools come pre-configured</li>
+  <li>100% hackability - update Baker to suit your needs</li>
+  <li>Solid foundation in case your MVP turns into P (product)</li>
+</ul>
+
+
+<h2>What is included</h2>
+
+<ul>
+  <li>Fully bootstrapped React Native application featuring
+    <ul>
+      <li>Redux</li>
+      <li>Component tests using Mocha + Enzyme</li>
+      <li>Redux Sagas for data fetching and various async tasks</li>
+      <li>Parse SDK + GraphQL client for Parse Server</li>
+    </ul>
+  </li>
+  <li>Application server with
+    <ul>
+      <li>Parse Server and Dashboard</li>
+      <li>GraphQL for Parse</li>
+      <li>Tests using Mocha</li>
+    </ul>
+  </li>
+  <li>Code generators for
+    <ul>
+      <li>Components and Containers</li>
+      <li>Sagas</li>
+      <li>Data models</li>
+    </ul>
+  </li>
+  <li>Easy deployments with
+    <ul>
+      <li>Fastlane for your mobile app</li>
+      <li>Heroku for the application server</li>
+      <li>Pretty awesome CI for iOS on Bitrise </li>
+    </ul>
+  </li>
+  <li>Fully hackable internals with Yeoman based generators</li>
+</ul>
+
+{% include social_buttons.html %}
 
 <!-- <div class="posts">
   {% for post in paginator.posts %}
