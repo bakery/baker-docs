@@ -5,7 +5,7 @@ project_name:        Baker
 title:               Baker
 tagline:             Mobile MVP Toolkit
 url:                 'https://bakery.github.io/baker'
-baseurl:             'https://bakery.github.io/baker-docs'
+baseurl:             'http://baker.thebakery.io'
 
 sass:
   style: compressed
