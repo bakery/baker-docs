@@ -1,12 +1,12 @@
-table.logotron {
-  border: none;
+.logotron {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
 
-  td {
-    background-color: transparent !important;
-    text-align: center;
-    vertical-align: middle;
-    border: none;
+  div {
     padding: 10px 0;
+    flex: 1;
+    text-align: center;
   }
 
   img {
