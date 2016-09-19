@@ -13,7 +13,7 @@ git clone https://github.com/thebakeryio/baker.git MyApp
 cd MyApp && npm install && npm run setup  
 ```
 
-This is will install required dependencies and launch app generator that will scaffold the whole application.
+This will install required dependencies and launch app generator that will scaffold the whole application.
 
 **Please note:** It might take a bit of time to install all the dependencies and get your project ready. To make the process less tedious we suggest a cup of tea/coffee accompanied by a fresh croissant.
 
