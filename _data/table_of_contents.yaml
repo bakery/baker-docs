@@ -25,6 +25,8 @@ entries:
         permalink: /scaffolding/models.html
       - title: Navigation
         permalink: /scaffolding/navigation.html
+      - title: Reducers
+        permalink: /scaffolding/reducers.html
       - title: Sagas
         permalink: /scaffolding/sagas.html
   - title: Testing
