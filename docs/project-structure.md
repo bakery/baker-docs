@@ -25,13 +25,13 @@ The root of your project should be looking smth like this
 ## app/src directory overview
 
 ```
-├── components           <-- all application components/containers go here   
+├── components           <-- components/containers go here   
 │ └── App                <-- every component gets its own directory
 │     ├── index.js
 │     ├── index.test.js
 │     └── styles.js
 ├── sagas                <-- all sagas go into this directory
-│ └── index.js           <-- main saga module exposing all registered sagas
+│ └── index.js           <-- sagas are registered here
 ├── state
 │ └── action-types.js    <-- constants to use in actions and reducers
 │ └── index.js           <-- Redux store setup happens here
