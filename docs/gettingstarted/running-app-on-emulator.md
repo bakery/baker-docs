@@ -18,6 +18,8 @@ npm run ios
 npm run android
 ```
 
+Note: you might need to start/configure your Android emulator by first running ```android avd```
+
 ## Using react-native-cli
 
 Remember that you can always fallback to using **react-native-cli** directly. For example,
