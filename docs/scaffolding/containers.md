@@ -35,7 +35,7 @@ Baker will ask you a few questions to customize your new container
 
 \[2\] If you want to customize how you component works on different platforms, you can have Baker generate separate .ios and .android versions of the component
 
-## Conainer directory overview
+## Container directory overview
 
 After successfully running container generator you should see your new container added to app/src/components. While containers share quite a lot of things in common with components, they also come with a few extra pieces:
 
