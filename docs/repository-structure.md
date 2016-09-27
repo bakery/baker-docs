@@ -4,7 +4,7 @@ permalink: /repository-structure.html
 ---
 # Application Repository Structure
 
-After setting up your application with Baker, you will notice that the resulting project includes several subprojects that could be theoretically split into separate repositories. Instead we have deliberately opted for a monorepository approach. The only exception to this is a collection of house keeping scripts and configs grouped under [baker-scripts](https://github.com/thebakeryio/baker-scripts) package.
+After setting up your application with Baker, you will notice that the resulting project includes several subprojects that could be theoretically split into separate repositories. Instead we have deliberately opted for a monorepository approach. The only exception to this is a collection of house keeping scripts and configs grouped under [baker-scripts](https://github.com/bakery/baker-scripts) package.
 
 The reasons for the monorepository approach are the following:
 

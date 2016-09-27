@@ -9,7 +9,7 @@ Container Components \(a.k.a. Containers\) connect to application state using th
 **Note:** We do NOT separate components and containers into different sub-directories. Both components and containers reside within **/components directory**.
 ## Running container generator
 
-Container generator is based on [Component generator](/scaffolding/components.md) which you already might be familiar with
+Container generator is based on [Component generator](/scaffolding/components.html) which you already might be familiar with
 
 ```
 npm run generate
@@ -31,7 +31,7 @@ Baker will ask you a few questions to customize your new container
 ? Do you need separate versions of this component for iOS and Android? [2]
 ```
 
-\[1\] Component boilerplates include extra code that can be used to pre-populate your components. Refer to [Component Boilerplates](/scaffolding/component-boilerplates.md) section for more information
+\[1\] Component boilerplates include extra code that can be used to pre-populate your components. Refer to [Component Boilerplates](/scaffolding/component-boilerplates.html) section for more information
 
 \[2\] If you want to customize how you component works on different platforms, you can have Baker generate separate .ios and .android versions of the component
 

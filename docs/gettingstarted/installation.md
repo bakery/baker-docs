@@ -17,4 +17,4 @@ This will install required dependencies and launch app generator that will scaff
 
 **Please note:** It might take a bit of time to install all the dependencies and get your project ready. To make the process less tedious we suggest a cup of tea/coffee accompanied by a fresh croissant.
 
-Once the set up is complete, you can jump to the next section to learn about running your brand new app. For more information regarding directory structure, please refer to [Application Structure](/structure/README.md "Application structure") section.
+Once the set up is complete, you can jump to the next section to learn about running your brand new app. For more information regarding directory structure, please refer to [Project Structure](/project-structure.html "Project structure") section.

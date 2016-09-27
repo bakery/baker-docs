@@ -30,5 +30,5 @@ Based on [react-native-maps](https://github.com/lelandrichardson/react-native-ma
 
 # Adding more boilerplates
 
-You can easily add component boilerplates to Baker. Take a look [here](https://github.com/thebakeryio/baker/tree/master/baker/generators/component/templates/boilerplates) to get an idea how to extend available boilerplates.
+You can easily add component boilerplates to Baker. Take a look [here](https://github.com/bakery/baker/tree/master/.baker/generators/component/templates/boilerplates) to get an idea how to extend available boilerplates.
 

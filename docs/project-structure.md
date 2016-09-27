@@ -8,7 +8,7 @@ Once you're done installing dependencies and running setup as described in the [
 
 Let's go over the project structure to make sure you know where things are. A lot of this stuff is auto-managed by Baker for you so you do not really have to worry about it much/at all.
 
-Note: For a quick rationale for the monorepository approach, please refer to [Repository Structure Section](/note-on-the-repository-structure.md)
+Note: For a quick rationale for the monorepository approach, please refer to [Repository Structure Section](/note-on-the-repository-structure.html)
 
 ## High level overview
 
