@@ -9,6 +9,16 @@ Baker's application server is based on Express with Parse Server, Parse Dashboar
 - http://localhost:8000/dashboard - Parse Server Dashboard
 - http://localhost:8000/graphql - GraphQL endpoint
 
+The Parse Dashboard requires authentication with the credentials defined in **/settings/development/server.json**. 
+Default credentials are:
+
+```json
+{
+  "user":"admin",
+  "pass":"admin"
+}
+```
+
 ## Running server in standard mode
 
 ```bash
@@ -17,7 +27,7 @@ npm run server
 
 ## Running server in watch mode
 
-In watch mode, the server will automatically restart when you change any javascript file in the server directory - super useful for development
+In watch mode, the server will automatically restart when you change any javascript file in the server directory:
 
 ```bash
 npm run server:watch
@@ -25,7 +35,7 @@ npm run server:watch
 
 ## Debugging server
 
-When running in debug mode, you can use [Node Inspector](https://github.com/node-inspector/node-inspector) to debug server side code
+When running in debug mode, you can use [Node Inspector](https://github.com/node-inspector/node-inspector) to debug server side code:
 
 ```
 npm run server:debug
