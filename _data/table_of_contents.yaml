@@ -29,6 +29,8 @@ entries:
         permalink: /scaffolding/reducers.html
       - title: Sagas
         permalink: /scaffolding/sagas.html
+  - title: Generating App Icons
+    permalink: /icons.html
   - title: Testing
     permalink: /testing.html
   - title: Deployment
