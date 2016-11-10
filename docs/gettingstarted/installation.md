@@ -8,6 +8,14 @@ You must have your system ready for React Native. This generally means going thr
 
 ## Creating your project using Baker
 
+We strongly recommend you use [🐈 Yarn](https://yarnpkg.com/) to install and manage dependencies. Baker with Yarn is blazing fast:
+
+```bash
+git clone https://github.com/thebakeryio/baker.git MyApp
+cd MyApp && yarn install && yarn run setup  
+```
+You can still do it the good old way using npm:
+
 ```bash
 git clone https://github.com/thebakeryio/baker.git MyApp
 cd MyApp && npm install && npm run setup  
