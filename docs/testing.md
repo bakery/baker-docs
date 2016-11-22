@@ -13,7 +13,7 @@ Baker includes test setups for the following
 
 ## Testing your React Native application
 
-RN tests use [Mocha](https://github.com/mochajs/mocha), [Enzyme](https://github.com/airbnb/enzyme) and [React Native Mock](https://github.com/lelandrichardson/react-native-mock). 
+RN tests use [Jest](https://facebook.github.io/jest/) with snapshot testing support. To learn more about snapshots, refer to [this tutorial](https://facebook.github.io/jest/docs/tutorial-react-native.html) 
 
 Baker will test anything within **app/src** directory (and its subdirectories) that looks like ***.test.js**. Generally speaking, you will not need to create any test suites manually since scaffolding feature takes care of creating tests for your components, actions and reducers.
 
